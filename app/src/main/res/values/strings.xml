@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Dice Roller</string>
+    <string name="roll">Roll</string>
+    <string name="pageTitle1">Dice Roller</string>
+    <string name="pageTitle2">Lemonade</string>
+    <string name="pageTitle3">Calculate Tip</string>
+    <string name="pageTitle4">Art Space</string>
+    <string name="page2Description1">Lemon tree</string>
+    <string name="page2Content1">Tap the lemon tree to select a lemon</string>
+    <string name="page2Description2">Lemon</string>
+    <string name="page2Content2">Keep tapping the lemon to squeeze it</string>
+    <string name="page2Description3">Glass of lemonade</string>
+    <string name="page2Content3">Tap the lemonade to drink it</string>
+    <string name="page2Description4">Empty glass</string>
+    <string name="page2Content4">Tap the empty glass to start again</string>
+    <string name="bill_amount">Bill Amount</string>
+    <string name="tip_amount">Tip Amount: %s</string>
+    <string name="how_was_the_service">Tip Percentage</string>
+    <string name="round_up_tip">Round up tip?</string>
+    <string name="artwork_image1">1</string>
+    <string name="artwork_title1">Homenaje a Tania nº 1</string>
+    <string name="artwork_artist_year1">Oswaldo Guayasamín (1969)</string>
+    <string name="artwork_image2">2</string>
+    <string name="artwork_title2">Monalisa</string>
+    <string name="artwork_artist_year2">Leonardo da Vinci (1503)</string>
+    <string name="artwork_image3">3</string>
+    <string name="artwork_title3">Judith beheading Holofernes</string>
+    <string name="artwork_artist_year3">Artemisia Gentiles chi (1614)</string>
+    <string name="artwork_previous">Previous</string>
+    <string name="artwork_next">Next</string>
+</resources>
